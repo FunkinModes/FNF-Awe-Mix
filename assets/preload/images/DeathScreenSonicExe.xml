@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DeathScreenSonicExe.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="appear0000" x="2908" y="1101" width="503" height="557" frameX="-393" frameY="-120" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="appear0001" x="2908" y="547" width="508" height="554" frameX="-393" frameY="-117" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="appear0002" x="2908" y="0" width="517" height="547" frameX="-393" frameY="-116" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="appear0003" x="2328" y="491" width="530" height="537" frameX="-392" frameY="-109" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="appear0004" x="1767" y="510" width="545" height="524" frameX="-392" frameY="-101" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="appear0005" x="1767" y="0" width="561" height="510" frameX="-391" frameY="-95" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="appear0006" x="0" y="1498" width="572" height="499" frameX="-391" frameY="-89" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="appear0007" x="2328" y="0" width="580" height="491" frameX="-390" frameY="-85" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="appear0008" x="0" y="1997" width="585" height="486" frameX="-390" frameY="-82" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="appear0009" x="585" y="1997" width="587" height="484" frameX="-391" frameY="-81" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="appear0010" x="572" y="1498" width="589" height="484" frameX="-390" frameY="-81" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="appear0011" x="572" y="1498" width="589" height="484" frameX="-390" frameY="-81" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="appear0012" x="589" y="1012" width="589" height="485" frameX="-389" frameY="-80" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="appear0013" x="1161" y="1498" width="589" height="483" frameX="-390" frameY="-80" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="appear0014" x="1178" y="1012" width="589" height="484" frameX="-390" frameY="-78" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="appear0015" x="589" y="1012" width="589" height="485" frameX="-390" frameY="-78" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="appear0016" x="0" y="1012" width="589" height="486" frameX="-387" frameY="-79" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="appear0017" x="1178" y="491" width="589" height="487" frameX="-388" frameY="-79" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="appear0018" x="1178" y="0" width="589" height="491" frameX="-386" frameY="-81" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="appear0019" x="589" y="508" width="589" height="497" frameX="-385" frameY="-81" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="appear0020" x="0" y="508" width="589" height="504" frameX="-385" frameY="-82" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="appear0021" x="0" y="0" width="589" height="508" frameX="-385" frameY="-81" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="appear0022" x="589" y="0" width="589" height="508" frameX="-385" frameY="-82" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="appear0023" x="589" y="0" width="589" height="508" frameX="-385" frameY="-82" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="deathConfirmSonicExe0000" x="2328" y="1028" width="577" height="492" frameX="-384" frameY="-81" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="deathConfirmSonicExe0001" x="2908" y="1658" width="444" height="492" frameX="-446" frameY="-81" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="deathConfirmSonicExe0002" x="2328" y="1520" width="350" height="475" frameX="-493" frameY="-81" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="deathConfirmSonicExe0003" x="2328" y="1520" width="350" height="475" frameX="-493" frameY="-81" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="deathConfirmSonicExe0004" x="2328" y="1520" width="350" height="475" frameX="-493" frameY="-81" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="deathConfirmSonicExe0005" x="2328" y="1520" width="350" height="475" frameX="-493" frameY="-81" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="deathLoopSonicExe0000" x="0" y="0" width="589" height="508" frameX="-385" frameY="-81" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="deathLoopSonicExe0001" x="0" y="0" width="589" height="508" frameX="-385" frameY="-81" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="deathLoopSonicExe0002" x="0" y="0" width="589" height="508" frameX="-385" frameY="-81" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="deathLoopSonicExe0003" x="0" y="0" width="589" height="508" frameX="-385" frameY="-81" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="deathLoopSonicExe0004" x="0" y="0" width="589" height="508" frameX="-385" frameY="-81" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="deathLoopSonicExe0005" x="0" y="0" width="589" height="508" frameX="-385" frameY="-81" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="deathLoopSonicExe0006" x="0" y="0" width="589" height="508" frameX="-385" frameY="-81" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="deathLoopSonicExe0007" x="0" y="0" width="589" height="508" frameX="-385" frameY="-81" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="deathLoopSonicExe0008" x="0" y="0" width="589" height="508" frameX="-385" frameY="-81" frameWidth="1280" frameHeight="720"/>
+</TextureAtlas>
